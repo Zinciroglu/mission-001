@@ -1,0 +1,16 @@
+.menu-bar ul li{
+    list-style:none;
+    }
+    .menu-bar ul li{
+    height:25px;
+    margin:50px;
+    padding:30px;
+    }
+    .image{
+    margin:15px;
+    padding:80px;
+    }
+   .image2{
+    float: right;   
+   }
+   
