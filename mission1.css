@@ -84,3 +84,17 @@ hr{
 position:relative;
 right:415px;
 }
+.element{
+border-width: 10;
+width: 150px;
+height: 30px;
+text-align: center;
+font-size:small;
+background-color:white;
+margin-right:600px;
+}
+.logo{
+position:relative;
+bottom:2100px;
+left:100px;
+}
